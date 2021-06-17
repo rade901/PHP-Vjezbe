@@ -6,5 +6,8 @@ echo $podatak["kljuc3"];
 echo $podatak["kljuc4"];
 echo $podatak["kljuc2"];
 
+//ispisat ce 
+//rade je cetiri godine sa ivanom
+
 
 
