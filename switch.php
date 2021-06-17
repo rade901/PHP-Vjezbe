@@ -1,12 +1,13 @@
 <?php
 $t = 1;
 $x = 2;
+$z = 3;
 
-switch ($x) {
+switch ($z) {
     case 1:
             echo "dobar jutro";
         break;
-        case 'dan':
+        case 3:
             echo "dobar dan";
         break;
         case 2:
