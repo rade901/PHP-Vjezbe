@@ -3,7 +3,7 @@ $t = 1;
 $x = 2;
 $z = 3;
 
-switch ($z) {
+switch ($x) {
     case 1:
             echo "dobar jutro";
         break;
